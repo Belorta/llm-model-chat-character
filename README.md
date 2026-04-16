@@ -1,6 +1,6 @@
-# 🧪 Experimental Project
+# 💖 Nene Immersive Chat (Alpha)
 
-# 💖 Nene Immersive Chat
+> 🧪 Experimental project — still in active development and may contain bugs.
 
 An interactive AI character chat powered by LLM, featuring dynamic emotions, memory, and structured roleplay.
 
